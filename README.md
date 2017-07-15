@@ -1,10 +1,16 @@
-# tooling
+# Tooling
 
-Tooling documentation, going to try cover setting up tooling for new projects
+Tooling documentation, going to try cover setting up tooling and work flow for new projects
 
-echo "# tooling" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/spences10/tooling.git
-git push -u origin master
+## Linting
+
+ESLint with my own config
+
+## Versioning
+
+Semantic release
+
+Zeit's release
+
+## Webpack
+
